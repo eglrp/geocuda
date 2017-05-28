@@ -7,6 +7,9 @@
  * 常用的数学函数
  */
 #pragma once
+#include <float.h>
+#include <cmath>
+
 #include <math_functions.h>
 #include <geocuda/constants.h>
 
